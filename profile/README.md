@@ -5,10 +5,10 @@
 🔐 얼굴인식 + 블록체인 기반 스마트 도어락 프로젝트
 
 ## Repository
-- [Frontend](../frontend)
-- [Backend](../backend)
-- [Device](../device)
-- [Blockchain](../blockchain)
+- [Frontend](../../frontend)
+- [Backend](../../backend)
+- [Device](../../device)
+- [Blockchain](../../blockchain)
 
 ## Branch Strategy
 
